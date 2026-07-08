@@ -14,7 +14,7 @@ In base a quello lo mette nella pila rossa, verde blu o quella degli "scarti".
 Il programma si ferma da solo dopo che il sensore non rileva cubetti per 20 secondi.
 
 # 2) GUI DI MOVIMENTO
-Il progetto è iniziato per creare una gui per usare il robot tramite un joystick, tuttavia si muoveva solo su un piano, per questo abbiamo rivisto i comandi per muoverlo in ogni direzione, asse z compreso, rendendo la gui simile a dobot lab anche se poi optato per una più user friendly.
+Il progetto è iniziato per creare una gui per usare il robot tramite un joystick, tuttavia si muoveva solo su un piano, per questo abbiamo rivisto i comandi per muoverlo in ogni direzione, asse z compreso, rendendo la gui simile a dobot lab anche se poi optato per una più user friendly ed aggiunto uno slider per la velocità del robot.
 Successivamente abbiamo aggiunto 2 pulsanti per attivare e disattivare la suction cup, ed insieme a questo abbiamo introdotto uno slider che permette di muovere il nastro trasportatore avanti/indietro in base alla velocità dello slider (esempio velocità 100 verso destra o velocità 800 verso sinistra).
 Arrivati a questo risultato abbiamo posizionato il robot sopra alla rotaia ed introdotto un ulteriore slider che muove la rotaia posizionando il robot nell'equivalente posizione dell'indicatore dello slider, ed aggiunto un altro slider per la sua velocità.
 Abbiamo aggiunto anche dei pulsanti HOME per riportare la rotaia ed il robot nella loro posizione di home, una finestra che mostra le sue coordinate ed un controllo per riconoscere se il robot collegato sia un dobot magician o dobot lite.
